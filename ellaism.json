@@ -88,5 +88,15 @@
 		"miners":"https://api.ella.mypool.online/api/miners",
 		"url":"ella.mypool.online",
 		"notify":"support@mypool.online"
+	},
+	{
+		"name":"Cryptopools.info",
+		"stats":"https://ella.Cryptopools.info/api/stats",
+		"blocks":"https://ella.Cryptopools.info/api/blocks",
+		"payments":"https://ella.Cryptopools.info/api/payments",
+		"accounts":"https://ella.Cryptopools.info/api/accounts",
+		"miners":"https://ella.Cryptopools.info/api/miners",
+		"url":"ella.Cryptopools.info",
+		"notify":"phatblinkie@hotmail.com"
 	}
 ]
